@@ -32,13 +32,13 @@ Research stints
 
 * 01/2017- 05/2017: Research Internship, Technical University of Munich
   * TUM-Neuroimaging Centre
-  * Supervisor: Prof. Christian Sorg & Dr. Felix Brandl
+  * Supervisors: Prof. Christian Sorg & Dr. Felix Brandl
   * Meta-analyses of resting-state fMRI networks in chronic pain and depression
   
 * 01/2017- 05/2017: Research Internship, Charité Medical University of Berlin,
   * Stress and Affective Disorders Research Group
   * Supervisor: Prof. Katja Wingenfeld 
-  * fMRI data collection and analyses on effects of cortisol on memory in Bordeline Personality Disorder and Post-traumatic Stress Disorders
+  * MRI data collection and fMRI analyses on effects of cortisol on memory in Bordeline Personality Disorder and Post-traumatic Stress Disorders
   
 Awards and Travel Grants
 ===
@@ -50,11 +50,11 @@ Awards and Travel Grants
 Training and Workshops
 ===
 * 2020: Computational Psychiatry Course 2020 (virtual) organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Switzerland
-* 2020: An Introduction to Machine Learning, Bioinformatics Training, University of Cambridge, UK
-* 2019: Data Manipulation and Visualisation in R, Bioinformatics Training, University of Cambridge, UK
+* 2020: An Introduction to Machine Learning, Bioinformatics Training, University of Cambridge
+* 2019: Data Manipulation and Visualisation in R, Bioinformatics Training, University of Cambridge
 * 2019: Computational Psychiatry Course 2020 organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Switzerland
         * Practical tutorials: Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas)
                                Reinforcement Learning & Decision-Making using the hBayesDM Package
-* 2019: Introduction to Scientific Figure Design, ioinformatics Training, University of Cambridge, UK
-* 2018: MRI Safety, Wolfson Brain Imaging Centre, University of Cambridge, UK
-* 2018: MRI Safety, MRC Cognition and Brain Sciences Unit, University of Cambridge, UK
+* 2019: Introduction to Scientific Figure Design, ioinformatics Training, University of Cambridge
+* 2018: MRI Safety, Wolfson Brain Imaging Centre, University of Cambridge
+* 2018: MRI Safety, MRC Cognition and Brain Sciences Unit, University of Cambridge

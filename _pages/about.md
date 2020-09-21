@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Cognitive Neuroscience PhD student at the University of Cambridge, based at the [Autism Research Centre] (http://www.autismresearchcentre.com/) of the [Department of Psychiatry] (https://www.psychiatry.cam.ac.uk/).
+I'm a Cognitive Neuroscience PhD student at the University of Cambridge, based at the [Autism Research Centre](http://www.autismresearchcentre.com/) of the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk/).
 
 For my PhD, I use a variety of cognitive neuroscience techniques, from behavioural experiments to neuroimaging, to investigate brain function, perception, and sensory processing in autism spectrum conditions. 
 

@@ -11,23 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD candidate in Psychiatry (Sci), University of Cambridge, UK (ongoing)
+- Supervisors: Profs. John Suckling and Simon Baron-Cohen
+* M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Üniversität Berlin, Germany, 2017
+* M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
+* B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 11/2017- 04/2018: Master's Thesis (Visiting student), University of Cambridge
+  * Department of Psychiatry
+  * Supervisor: Prof. John Suckling
+  * Task fMRI data analyses on emotion processing in adolescent depression
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2017- 10/2017: Part-time Research Assistant, Ludwig Maximilian University, Munich
+  * LMU Department of Child and Adolescent Psychiatry, Psychotherapy and Psychosomatics
+  * Supervisor: Dr. Belinda Platt
+  * Task fMRI data analyses on peer rejection in adolescent depression
+
+* 01/2017- 05/2017: Research Internship, Technical University of Munich
+  * TUM-Neuroimaging Centre
+  * Supervisor: Prof. Christian Sorg & Dr. Felix Brandl
+  * Meta-analyses of resting-state fMRI networks in chronic pain and depression
   
-Skills
+* 01/2017- 05/2017: Research Internship, Charité Medical University of Berlin,
+  * Stress and Affective Disorders Research Group
+  * Supervisor: Prof. Katja Wingenfeld 
+  * fMRI data collection and analyses on effects of cortisol on memory in Bordeline Personality Disorder and Post-traumatic Stress Disorders
+  
+Grants/Funding/Awards
 ======
 * Skill 1
 * Skill 2
@@ -42,7 +54,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+# Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -54,6 +66,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Training
 ======
 * Currently signed in to 43 different slack teams

@@ -14,6 +14,6 @@ For my PhD, I use a variety of cognitive neuroscience techniques, from behaviour
 
 Broadly, my research interests lie in computational neuroscience, neuroimaging methods, data science, and anything brain-related 🧠.
 
-When I'm not PhD-ing, I like to unwind with horror movies, cat videos, spicy food, and 90s music. (The profile picture may have mislead you into thinking I'm a cool, sporty, outdoorsy person... I'm not.)
+When I'm not PhD-ing, I like to unwind with horror movies, cat videos, spicy food, and 90s music. (The profile picture may have misled you into thinking I'm a cool, sporty, outdoorsy person... I'm not.)
 
 I'm originally from Chennai, a coastal city in South India, known for its sweltering summers and scrumptious breakfast foods.

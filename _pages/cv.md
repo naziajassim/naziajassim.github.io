@@ -20,20 +20,16 @@ Education
 
 Research stints
 ===
-* 11/2017- 04/2018: Master's Thesis (Visiting student)
-  * Department of Psychiatry,  University of Cambridge 
+* 11/2017- 04/2018: Master's Thesis (Visiting student), Department of Psychiatry,  University of Cambridge 
   * Task fMRI data analyses on emotion processing in adolescent depression (Supervisor: Prof. John Suckling)
 
-* 05/2017- 10/2017: Research Assistant
-  * LMU Department of Child and Adolescent Psychiatry, Psychotherapy and Psychosomatics, Ludwig Maximilian University, Munich
+* 05/2017- 10/2017: Research Assistant, LMU Department of Child and Adolescent Psychiatry, Psychotherapy and Psychosomatics, Ludwig Maximilian University, Munich
   * Task fMRI data analyses on peer rejection in adolescent depression (Supervisor: Dr. Belinda Platt)
 
-* 01/2017- 05/2017: Research Internship
-  * TUM-Neuroimaging Centre,  Technical University of Munich
+* 01/2017- 05/2017: Research Internship, TUM-Neuroimaging Centre,  Technical University of Munich
   * Meta-analyses of resting-state fMRI networks in chronic pain and depression (Supervisor: Prof. Christian Sorg)
   
-* 01/2017- 05/2017: Research Internship
-  * Stress and Affective Disorders Research Group, Charité Medical University of Berlin
+* 01/2017- 05/2017: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
   * MRI data collection and analyses on the effects of cortisol on memory in anxiety disorders (Supervisor: Prof. Katja Wingenfeld)
   
 Awards and Travel Grants

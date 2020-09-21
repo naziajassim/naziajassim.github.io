@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * PhD candidate in Psychiatry (Sci), University of Cambridge, UK (ongoing)
-- Supervisors: Profs. John Suckling and Simon Baron-Cohen
 * M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Üniversität Berlin, Germany, 2017
 * M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
 * B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
+
 
 Research experience
 ======
@@ -39,7 +39,7 @@ Research experience
   * Supervisor: Prof. Katja Wingenfeld 
   * fMRI data collection and analyses on effects of cortisol on memory in Bordeline Personality Disorder and Post-traumatic Stress Disorders
   
-Grants/Funding/Awards
+Grants and Travel Awards
 ======
 * Skill 1
 * Skill 2

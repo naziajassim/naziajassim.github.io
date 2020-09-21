@@ -53,8 +53,8 @@ Training and Workshops
 * 2020: An Introduction to Machine Learning, Bioinformatics Training, University of Cambridge
 * 2019: Data Manipulation and Visualisation in R, Bioinformatics Training, University of Cambridge
 * 2019: Computational Psychiatry Course 2020 organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Switzerland
-        * Practical tutorials: Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas)
-                               Reinforcement Learning & Decision-Making using the hBayesDM Package
+        * Practical tutorials: * Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas)
+                               * Reinforcement Learning & Decision-Making using the hBayesDM Package
 * 2019: Introduction to Scientific Figure Design, Bioinformatics Training, University of Cambridge
 * 2018: MRI Safety, Wolfson Brain Imaging Centre, University of Cambridge
 * 2018: MRI Safety, MRC Cognition and Brain Sciences Unit, University of Cambridge

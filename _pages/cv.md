@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * PhD candidate in Psychiatry (Sci), University of Cambridge, UK (ongoing)
-* M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Üniversität Berlin, Germany, 2017
+    Co-supervisors: Profs. John Suckling and Simon Baron-Cohen
+    Advisor: Dr. Rebecca Lawson
+* M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Üniversität Berlin, Germany, 2018
 * M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
 * B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
 
@@ -24,7 +26,7 @@ Research experience
   * Supervisor: Prof. John Suckling
   * Task fMRI data analyses on emotion processing in adolescent depression
 
-* 05/2017- 10/2017: Part-time Research Assistant, Ludwig Maximilian University, Munich
+* 05/2017- 10/2017: Research Assistant, Ludwig Maximilian University, Munich
   * LMU Department of Child and Adolescent Psychiatry, Psychotherapy and Psychosomatics
   * Supervisor: Dr. Belinda Platt
   * Task fMRI data analyses on peer rejection in adolescent depression
@@ -41,30 +43,10 @@ Research experience
   
 Grants and Travel Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2020: Travel grant awarded by International Society for Autism Research (INSAR) to attend INSAR 2020 Annual Meeting (cancelled due to COVID-19)- $2000 (USD)
+* 2019: Graduate and Research (GARS) travel grant, awarded by Newnham College, to attend Computational Psychiatry Course, Zurich- £750
+* 2018: April Trust Studentship, fully-funded PhD studentship awarded by Newnham College, University of Cambridge - £126,105
+* 2017: Erasmus+ Mobility Grant covering a research stint at the Department of Psychiatry, University of Cambridge - £2,250
   
 Training
 ======

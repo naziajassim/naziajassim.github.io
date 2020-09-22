@@ -22,17 +22,17 @@ Education
 Research stints
 ===
 * 11/2017-04/2018: Master's Thesis (Visiting student), Department of Psychiatry,  University of Cambridge 
-                   * Emotion processing in adolescent depression (Supervisor: Prof. John Suckling)
-                   * Task-based fMRI analyses- Hariri task
+  * Emotion processing in adolescent depression (Supervisor: Prof. John Suckling)
+  * Task-based fMRI analyses- Hariri task
 * 05/2017-10/2017: Research Assistant, Department of Child and Adolescent Psychiatry, Ludwig Maximilian University, Munich
-                   * Peer rejection in adolescent depression (Supervisor: Dr. Belinda Platt)
-                   * Task-based fMRI analyses- Chatroom and Social Judgement task
+  * Peer rejection in adolescent depression (Supervisor: Dr. Belinda Platt)
+  * Task-based fMRI analyses- Chatroom and Social Judgement task
 * 01/2017-05/2017: Research Internship, TUM-Neuroimaging Centre, Technical University of Munich
-                   * Resting-state fMRI networks in chronic pain and depression (Supervisors: Prof. Christian Sorg & Dr.Felix Brandl)
-                   * Meta-analysis - Multi-Level Kernel Density Analysis
+  * Resting-state fMRI networks in chronic pain and depression (Supervisors: Prof. Christian Sorg & Dr.Felix Brandl)
+  * Meta-analysis - Multi-Level Kernel Density Analysis
 * 01/2017- 05/2017: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
-                   * Effect of cortisol on memory in anxiety disorders (Supervisor: Prof. Katja Wingenfeld & Julianne Fleischer)
-                   * Participant testing, MRI scanning, and task-FMRI preprocessing - Autobiographical Memory Recall task
+  * Effect of cortisol on memory in anxiety disorders (Supervisor: Prof. Katja Wingenfeld & Julianne Fleischer)
+  * Participant testing, MRI scanning, and task-FMRI preprocessing - Autobiographical Memory Recall task
   
 Awards and Travel Grants
 ===
@@ -47,7 +47,7 @@ Training and Workshops
 * Feb 2020: An Introduction to Machine Learning, Bioinformatics Training, University of Cambridge
 * Oct 2019: Introduction to Scientific Figure Design, Bioinformatics Training, University of Cambridge
 * Sept 2019: Computational Psychiatry Course organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich
-        * Practical tutorials: 1.Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas) & 2.Reinforcement Learning & Decision-Making using the hBayesDM Package
+  * Practical tutorials: 1. Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas) & 2. Reinforcement Learning & Decision-Making using the hBayesDM Package
 * June 2019: Data Manipulation and Visualisation in R, Bioinformatics Training, University of Cambridge
 * Nov 2018: MRI Safety, Wolfson Brain Imaging Centre, University of Cambridge
 * Oct 2018: MRI Safety, MRC Cognition and Brain Sciences Unit, University of Cambridge

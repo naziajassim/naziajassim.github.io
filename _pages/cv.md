@@ -30,7 +30,7 @@ Research stints
 * 01/2017-05/2017: Research Internship, TUM-Neuroimaging Centre, Technical University of Munich
   * Resting-state fMRI networks in chronic pain and depression (Supervisors: Prof. Christian Sorg & Dr.Felix Brandl)
   * Meta-analysis - Multi-Level Kernel Density Analysis
-* 01/2017- 05/2017: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
+* 09/2016- 12/2016: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
   * Effect of cortisol on memory in anxiety disorders (Supervisor: Prof. Katja Wingenfeld & Julianne Fleischer)
   * Participant testing, MRI scanning, and task-FMRI preprocessing - Autobiographical Memory Recall task
   

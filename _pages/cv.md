@@ -15,7 +15,7 @@ Education
     * Topic: Perception, learning, and systemizing in Autism Spectrum Conditions
     * Co-supervisors: Profs. John Suckling and Simon Baron-Cohen
     * Advisor: Dr. Rebecca Lawson
-* M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Üniversität Berlin, Germany, 2018
+* M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Universität Berlin, Germany, 2018
 * M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
 * B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
 
@@ -39,7 +39,7 @@ Awards and Travel Grants
 * 2020: Travel grant awarded by International Society for Autism Research (INSAR) to attend INSAR 2020 Annual Meeting (cancelled due to COVID-19)- $2000 (USD)
 * 2019: Graduate and Research studentships travel grant awarded by Newnham College to attend Computational Psychiatry Course, Zurich- £750
 * 2018: April Trust Studentship, fully-funded PhD studentship awarded by Newnham College, University of Cambridge - £126,105
-* 2017: Erasmus+ Mobility Grant awarded by Freie Üniversität Berlin to fund a research stint at the Department of Psychiatry, University of Cambridge - £2,250
+* 2017: Erasmus+ Mobility Grant via Freie Universität Berlin to fund a research stint at the Department of Psychiatry, University of Cambridge - £2,250
   
 Training and Workshops
 ===

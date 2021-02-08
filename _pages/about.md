@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Cognitive Neuroscience at the University of Cambridge, UK. I work with the [Autism Research Centre](http://www.autismresearchcentre.com/), the [Prediction and Learning Lab](https://www.lawsonlab.co.uk/), and the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk/).
+I'm a PhD student in Cognitive Neuroscience at the University of Cambridge, UK.
 
-For my PhD, I use a variety of cognitive neuroscience techniques, from behavioural experiments to neuroimaging, to investigate brain function, perception, and sensory processing in Autism Spectrum Conditions. Check out my [CV](https://naziajassim.github.io/cv/) for more details. 
+For my PhD, I use a variety of cognitive neuroscience techniques, from behavioural experiments to neuroimaging, to investigate brain function, perception, and sensory processing in Autism Spectrum Conditions. I work with the [Autism Research Centre](http://www.autismresearchcentre.com/), the [Prediction and Learning Lab](https://www.lawsonlab.co.uk/), and the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk/). Check out my [CV](https://naziajassim.github.io/cv/) for more details. 
 
 Broadly, my research interests lie in computational neuroscience, neuroimaging methods, data science, and anything brain-related 🧠.
 

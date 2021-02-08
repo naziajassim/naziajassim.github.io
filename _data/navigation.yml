@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Contact"
-    url: /contact/
-    
   #- title: "Publications"
    # url: /publications/
 
@@ -23,3 +20,6 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+    
+  - title: "Contact"
+    url: /contact/

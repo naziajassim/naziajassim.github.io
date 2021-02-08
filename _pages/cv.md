@@ -18,7 +18,7 @@ redirect_from:
 * M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Universität Berlin, Germany, 2018
 * M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
 * B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
-====
+----
 
 ### Research stints
 
@@ -34,7 +34,7 @@ redirect_from:
 * 09/2016- 12/2016: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
   * Effect of cortisol on memory in anxiety disorders (Supervisor: Prof. Katja Wingenfeld & Julianne Fleischer)
   * Participant testing, MRI scanning, and task-FMRI preprocessing - Autobiographical Memory Recall task
-===
+---
 
 ### Awards and Travel Grants
 
@@ -42,7 +42,7 @@ redirect_from:
 * 2019: Graduate and Research studentships travel grant awarded by Newnham College to attend Computational Psychiatry Course, Zurich- £750
 * 2018: April Trust Studentship, fully-funded PhD studentship awarded by Newnham College, University of Cambridge - £126,105
 * 2017: Erasmus+ Mobility Grant via Freie Universität Berlin to fund a research stint at the Department of Psychiatry, University of Cambridge - £2,250
- ===
+---
 
 ### Training and Workshops
 

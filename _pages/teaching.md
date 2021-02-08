@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Undergraduate supervisions 
-
-### University of Cambridge, Department of Psychology, 2019- present
+### Undergraduate supervisions | University of Cambridge, Department of Psychology, 2019- present
 
 Courses: Psychological Behavioural Sciences (PBS) and Natural Sciences Tripos (NST)
 

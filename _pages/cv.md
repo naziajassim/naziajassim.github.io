@@ -13,8 +13,7 @@ redirect_from:
 
 * PhD candidate in Psychiatry (Sci), University of Cambridge, UK (ongoing)
   * Topic: Perception, learning, and systemizing in Autism Spectrum Conditions
-  * Co-supervisors: Profs. John Suckling and Simon Baron-Cohen
-  * Advisor: Dr. Rebecca Lawson
+  * Co-supervisors: Prof. John Suckling, Prof. Simon Baron-Cohen, & Dr. Rebecca Lawson
 * M.Sc. Social, Cognitive, and Affective Neuroscience (SCAN), Freie Universität Berlin, Germany, 2018
 * M.Sc. Neuroscience (Faculty of Medicine), University of Madras, India, 2012
 * B.Sc. Biology, Women's Christian College, University of Madras, India, 2010
@@ -29,9 +28,9 @@ redirect_from:
 * 05/2017-10/2017: Research Assistant, Department of Child and Adolescent Psychiatry, Ludwig Maximilian University, Munich
     * Supervisor: Dr. Belinda Platt
 * 01/2017-05/2017: Research Internship, TUM-Neuroimaging Centre, Technical University of Munich
-    * Supervisors: Prof. Christian Sorg & Dr.Felix Brandl
+    * Supervisors: Prof. Christian Sorg & Dr. Felix Brandl
 * 09/2016- 12/2016: Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin
-    * Supervisor: Prof. Katja Wingenfeld & Julianne Fleischer
+    * Supervisors: Prof. Katja Wingenfeld & Julianne Fleischer
 
 ***
 

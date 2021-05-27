@@ -23,14 +23,10 @@ redirect_from:
 
 ### Research stints
 
-* Master's Thesis (Visiting student), Department of Psychiatry,  University of Cambridge, 11/2017-04/2018
-    * Supervisor: Prof. John Suckling
+* Master's Thesis (Visiting student), Brain Mapping Unit, Department of Psychiatry,  University of Cambridge, 11/2017-04/2018
 * Research Assistant, Department of Child and Adolescent Psychiatry, Ludwig Maximilian University, Munich, 05/2017-10/2017
-    * Supervisor: Dr. Belinda Platt
 * Research Internship, TUM-Neuroimaging Centre, Technical University of Munich, 01/2017-05/2017
-    * Supervisors: Prof. Christian Sorg & Dr. Felix Brandl
 * Research Internship, Stress and Affective Disorders Research Group, Charité Medical University of Berlin, 09/2016- 12/2016
-    * Supervisors: Prof. Katja Wingenfeld & Julianne Fleischer
 
 ***
 

@@ -40,7 +40,7 @@ redirect_from:
 
 ***
 
-### Relevant Training and Workshops
+### Training and Workshops
 
 * Introduction to Solving Biological Problems with Python, Bioinformatics Training, University of Cambridge, March 2021
 * Computational Psychiatry Course (virtual) organized by the Translational Neuromodeling Unit, University of Zurich & ETH Zurich, Sept 2020

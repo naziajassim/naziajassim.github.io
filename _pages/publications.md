@@ -20,4 +20,4 @@ author_profile: true
 
 <strong> Jassim, N. </strong>, Baron-Cohen, S., & Parsons, O.E. (2021). Non-social sensory perception in autism: An fMRI ALE meta-analysis. <i> [Poster](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/Jassim_OHBM_2020_poster.pdf) presented at the Organization for Human Brain Mapping (OHBM) annual meeting 2020. </i>
 
-<strong> Jassim, N. </strong>, Villa, L., Goodyear, I., Holt, R., Whitaker, K., & Suckling, J. (2021). Emotional brain processes in adolescent depression. <i> [Poster](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/Jassim_camneuro2018.pdf) presented at Cambridge Neuroscience Seminar(CNS): Mental Plasticity & Development 2018. </i>
+<strong> Jassim, N. </strong>, Villa, L., Goodyear, I., Holt, R., Whitaker, K., & Suckling, J. (2021). Emotional brain processes in adolescent depression. <i> [Poster](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/Jassim_camneuro2018.pdf) presented at 30th Cambridge Neuroscience Seminar(CNS): Mental Plasticity & Development 2018. </i>

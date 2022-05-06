@@ -12,9 +12,10 @@ You can also find my articles on <u><a> [my Google Scholar profile](https://scho
 
 ## Peer-reviewed publications:
 
+Brandl, F., Weise, B., Mulej Bratec, S., <strong> Jassim, N </strong>, Hoffman, A.D., Bertram, T., Ploner, M., Sorg, C. (2022). Common and specific large-scale brain changes in major depressive disorder, anxiety disorders, and chronic pain: a transdiagnostic multimodal meta-analysis of structural and functional MRI studies.<i> Neuropsychopharmacology</i>. [https://doi.org/10.1038/s41386-022-01271-y](https://doi.org/10.1038/s41386-022-01271-y)
+
 <strong> Jassim, N. </strong>, Baron-Cohen,S., & Suckling, J. (2021). Meta-analytic evidence of differential prefrontal and early sensory cortex activity during non-social sensory perception in autism. <i> Neuroscience & Biobehavioural Reviews </i>. [https://doi.org/10.1016/j.neubiorev.2021.04.014](https://doi.org/10.1016/j.neubiorev.2021.04.014)
 
-Brandl, F., Weise, B., Mulej Bratec, S., <strong> Jassim, N </strong>, Hoffman, A.D., Bertram, T., Ploner, M., Sorg, C. (2022). Common and specific large-scale brain changes in major depressive disorder, anxiety disorders, and chronic pain: a transdiagnostic multimodal meta-analysis of structural and functional MRI studies.<i> Neuropsychopharmacology</i>. [https://doi.org/10.1038/s41386-022-01271-y](https://doi.org/10.1038/s41386-022-01271-y)
 
 ## Selected conference presentations: 
 

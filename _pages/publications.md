@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <u><a> [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=xbVeIZYAAAAJ)</a>.</u>
 
 ## Preprints/under review:
-<strong> Jassim, N. </strong>, Owen, M.A, Smith, P., Suckling, J., Lawson, R.P., Baron-Cohen, S.* , Parsons.O*. Visual scene discrimination: A perceptual advantage in autistic adults <i>(under review) </i>. [https://www.researchsquare.com/article/rs-1611468/v1](https://www.researchsquare.com/article/rs-1611468/v1)
+<strong> Jassim, N. </strong>, Owen, M.A, Smith, P., Suckling, J., Lawson, R.P., Baron-Cohen, S.* , Parsons, O*. Visual scene discrimination: A perceptual advantage in autistic adults <i>(under review) </i>. [https://www.researchsquare.com/article/rs-1611468/v1](https://www.researchsquare.com/article/rs-1611468/v1)
 
 ## Peer-reviewed publications:
 

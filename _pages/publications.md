@@ -16,7 +16,6 @@ Brandl, F., Weise, B., Mulej Bratec, S., <strong> Jassim, N </strong>, Hoffman, 
 
 <strong> Jassim, N. </strong>, Baron-Cohen,S., & Suckling, J. (2021). Meta-analytic evidence of differential prefrontal and early sensory cortex activity during non-social sensory perception in autism. <i> Neuroscience & Biobehavioural Reviews </i>. [https://doi.org/10.1016/j.neubiorev.2021.04.014](https://doi.org/10.1016/j.neubiorev.2021.04.014)
 
-
 ## Selected conference presentations: 
 
 <strong> Jassim, N. </strong>, Baron-Cohen, S., & Parsons, O.E. (2021). Visual cognition in autism: Autistic adults are better at "spotting the difference". <i> [Poster](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/jassim_insar2021_v2.pdf) presented at the International Society for Autism Research (INSAR) annual meeting 2021. </i>

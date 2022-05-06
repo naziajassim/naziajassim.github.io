@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on <u><a> [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=xbVeIZYAAAAJ)</a>.</u>
 
+## Preprints/under review:
+<strong> Jassim, N. </strong>, Owen, M.A, Smith, P., Suckling, J., Lawson, R.P., Baron-Cohen, S.* , Parsons.O*. Visual scene discrimination: A perceptual advantage in autistic adults <i>(under review) </i> [https://www.researchsquare.com/article/rs-1611468/v1]
+
 ## Peer-reviewed publications:
 
 <strong> Jassim, N. </strong>, Baron-Cohen,S., & Suckling, J. (2021). Meta-analytic evidence of differential prefrontal and early sensory cortex activity during non-social sensory perception in autism. <i> Neuroscience & Biobehavioural Reviews </i>. [https://doi.org/10.1016/j.neubiorev.2021.04.014](https://doi.org/10.1016/j.neubiorev.2021.04.014)

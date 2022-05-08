@@ -3,8 +3,6 @@ layout: archive
 title: "Publications & Presentations"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /Publications
 ---
 {% include base_path %}
 

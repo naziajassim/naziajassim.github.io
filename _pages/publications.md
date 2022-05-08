@@ -4,7 +4,6 @@ title: "Publications & Presentations"
 permalink: /publications/
 author_profile: true
 ---
-
 You can also find my articles on <u><a> [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=xbVeIZYAAAAJ)</a>.</u>
 
 ## Preprints/under review:

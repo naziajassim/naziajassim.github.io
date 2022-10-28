@@ -15,12 +15,14 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Get involved!"
-   url: /year-archive/  
+  #- title: "Blog Posts"
+   # url: /year-archive/  
     
   #- title: "Guide"
   #  url: /markdown/
-   
+    
+    - title: "Participate in Online Research"
+    url: /participate/
     
   - title: "Contact"
     url: /contact/

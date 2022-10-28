@@ -18,4 +18,4 @@ I also conduct undergraduate supervisions (i.e, small group [teaching](https://n
 
 When I'm not doing science, I unwind with the help of my cat (Sultan of Cambridge aka Sully), horror movies, spicy food, and 90s music. (The profile picture may have misled you into thinking I'm a cool, sporty, outdoorsy person... I'm not.)
 
-I'm originally from Chennai, a coastal city in South India, known for its sweltering summers and scrumptious breakfast foods.
+I'm originally from Chennai, a coastal city in South India, known for its sweltering summers and scrumptious breakfast foods..

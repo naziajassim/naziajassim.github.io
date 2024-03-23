@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Nazia Jassim, PhD"
+name                     : "About"
 description              : "Cognitive neuroscientist"
 url                      : https://naziajassim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

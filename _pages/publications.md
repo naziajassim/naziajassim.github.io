@@ -15,7 +15,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
    
 ## Peer-reviewed publications:
 
-1. <strong> Jassim, N.  </strong> , McCoy, B., Yip, E.W., Allison, C., Baron-Cohen, S., Lawson, R.P. (2025). The “Tetris effect”: autistic and non-autistic people share an implicit drive for perceptual cohesion. <i>Molecular Autism</i>.[doi.org/10.1186/s13229-025-00654-4](doi.org/10.1186/s13229-025-00654-4)  * co-first authors
+1. <strong> Jassim, N. </strong> * , McCoy, B. * , Yip, E.W., Allison, C., Baron-Cohen, S., Lawson, R.P. (2025). The “Tetris effect”: autistic and non-autistic people share an implicit drive for perceptual cohesion. <i>Molecular Autism</i>.[doi.org/10.1186/s13229-025-00654-4](doi.org/10.1186/s13229-025-00654-4)  * co-first authors
 2. Falter-Wagner, C.M., Gernert, C., Noreika, V., <strong> Jassim, N. </strong> , Streicher, J., Bekinschtein, T (2024). Protocol of 
 Stress in Autism (STREAM): The Role of Circadian Activity, Sleep Quality and Sensory Hyper-Reactivity.  <i>Plos One </i>. [doi.org/10.1371/journal.pone.0303209](doi.org/10.1371/journal.pone.0303209)
 3. <strong> Jassim, N. </strong>, Owen, A., Lawson, R., Suckling, J., Baron-Cohen, S., & Parsons, O. (2022). Perceptual decision-making in autism as assessed by “spot the difference” visual cognition tasks. <i>Scientific Reports</i>.[doi.org/10.1038/s41598-022-19640-4](doi.org/10.1038/s41598-022-19640-4)

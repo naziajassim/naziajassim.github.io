@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Please view my CV [here](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/Jassim_CV_April2025.pdf)
+Please view my CV [here](https://github.com/naziajassim/naziajassim.github.io/blob/master/files/Jassim_CV_April2025.pdf).
 
 ***

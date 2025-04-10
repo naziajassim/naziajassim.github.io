@@ -88,7 +88,8 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xbVeIZYAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Nazia_Jassim"
+  bluesky          : "naziajassim"   
+  twitter          : "naziajassim"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/naziajassim/"
   orcid            : "https://orcid.org/0000-0001-9761-7784"
+  researchgate     : "https://www.researchgate.net/profile/Nazia_Jassim"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "naziajassim"
   vine             :
   weibo            :
   xing             :

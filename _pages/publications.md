@@ -9,7 +9,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Peer-reviewed publications:
 
-1. <strong> Jassim, N.</strong>, Waade, P.T., Parsons, O., Petzschner, F.P., Rua, C., Rodgers, C.T., Baron-Cohen, S., Suckling, J., Mathys, C., Lawson, R.P. (2025). Computational signatures of uncertainty are reflected in motor cortex excitatory neurochemistry. <i> Nature Communications </i>. [doi.org/10.1038/s41467-025-64702-6](https://www.nature.com/articles/s41467-025-64702-6)
+1. <strong> Jassim, N.</strong>, Waade, P.T., Parsons, O., Petzschner, F.P., Rua, C., Rodgers, C.T., Baron-Cohen, S., Suckling, J., Mathys, C., Lawson, R.P. (2025). Computational signatures of uncertainty are reflected in motor cortex excitatory neurochemistry. <i> Nature Communications </i>. [doi.org/10.1038/s41467-025-64702-6](https://www.nature.com/articles/s41467-025-64702-6)†<br>
+<small><em>† Featured in the “From brain to behaviour” [Editors’ Highlights collection](https://www.nature.com/ncomms/editorshighlights) in <i>Nature Communications</i>, featuring a curated selection of particularly notable papers published in the journal. </em> </small>
 2. <strong> Jassim, N.</strong> , Hagan, C., Holt R., Goodyer, I., Suckling, J. (2025). Differential precuneus and frontal activity associated with facial emotion processing in adolescent depression. <i>Psychiatry Research: Neuroimaging.
  </i> [doi.org/10.1016/j.pscychresns.2025.112019](https://doi.org/10.1016/j.pscychresns.2025.112019)
 4.  <strong> Jassim, N. </strong> * , McCoy, B. * , Yip, E.W., Allison, C., Baron-Cohen, S., Lawson, R.P. (2025). The “Tetris effect”: autistic and non-autistic people share an implicit drive for perceptual cohesion. <i>Molecular Autism</i>. [doi.org/10.1186/s13229-025-00654-4](https://doi.org/10.1186/s13229-025-00654-4)  * co-first authors

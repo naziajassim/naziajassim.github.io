@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV <a href="{{ "Jassim_CV_2025.pdf" | prepend: "/files/" | prepend: base_path }}" target="_blank">here</a> .
+Please find my CV <a href="{{ "Jassim_CV_2026_long.pdf" | prepend: "/files/" | prepend: base_path }}" target="_blank">here</a> .
